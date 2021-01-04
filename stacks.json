@@ -1,0 +1,24 @@
+{
+  "title": "Test - IPython Notebook Collection",
+  "description": "A collection of IPython notebooks covering various topics",
+  "logo": "_images/dataset.png",
+  "enabled": true,
+  "category_label": [
+    "Notebook"
+  ],
+  "document": "",
+  "stack_id": "Test_-_IPython_Notebook_Collection_notebook_1609757162317",
+  "de_catalog_id": "Test_-_IPython_Notebook_Collection_notebook_1609757162317",
+  "type": "Notebook",
+  "categories": [
+    "Machine learning"
+  ],
+  "tag": [],
+  "has_api": false,
+  "has_dataset": false,
+  "is_certified": false,
+  "has_support": false,
+  "git_url": "",
+  "git_commit": "",
+  "installTime": "2 minutes"
+}

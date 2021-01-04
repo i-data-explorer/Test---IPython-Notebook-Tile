@@ -1,0 +1,58 @@
+{
+  "name": "Test - IPython Notebook Collection",
+  "description": "A collection of IPython notebooks covering various topics",
+  "logo": "_images/dataset.png",
+  "has_supporting_content": false,
+  "stack_id": "Test_-_IPython_Notebook_Collection_notebook_1609757162317",
+  "de_catalog_id": "Test_-_IPython_Notebook_Collection_notebook_1609757162317",
+  "type": "Notebook",
+  "Categories": [
+    "Machine learning"
+  ],
+  "source_repo": "https://github.com/jdwittenauer/ipython-notebooks.git",
+  "cover": "cover.md",
+  "use_explorer_dataset": false,
+  "use_catalog_dataset": "",
+  "meta": {
+    "Install Time": [
+      "2 minutes"
+    ],
+    "Type": [
+      "Notebook"
+    ],
+    "Dataset": [
+      ""
+    ],
+    "Categories": [
+      "Machine learning"
+    ],
+    "Catalog Id": [
+      "Test_-_IPython_Notebook_Collection_notebook_1609757162317"
+    ],
+    "Contact": [
+      "freedavales@xyz.com"
+    ],
+    "Preferred Platform": [
+      "OpenShift / Kubernetes"
+    ],
+    "Last updated": [
+      "Jan 04 2021"
+    ],
+    "Managed By": [
+      ""
+    ]
+  },
+  "commands": [
+    {
+      "description": "",
+      "exec": ""
+    }
+  ],
+  "display": [
+    {
+      "name": "Developer Dashboard",
+      "url": "##DNS.host##/codeserver",
+      "enabled": true
+    }
+  ]
+}
